@@ -13,10 +13,10 @@ Adds a toolbar button to trigger a Ruby script that opens the 2D Graphic export 
 ## Usage
 1. Find a good spot in the toolbar to place the button.
 2. When you're ready, press it.
-3. The Windows dialog window should open, saving you one (1) click from the usual *File>Export>2D Graphic...* route–unless you have a keyboard shortcut (which I greatly recommend), in which case you save zero (0) clicks.
+3. The Windows dialog window should open, saving you one (1) click from the usual ***File > Export > 2D Graphic...*** route–unless you have a keyboard shortcut (which I greatly recommend), in which case you save zero (0) clicks.
 4. Enjoy!
 
-If, for some reason, you want to export 2D graphics but don't want to use the File tab, this extension is also available in *Extensions>Export 2D Graphic*. A zero-sum extension... purely for the looks.
+If, for some reason, you want to export 2D graphics but don't want to use the File tab, this extension is also available in ***Extensions > Export 2D Graphic***. A zero-sum extension... purely for the *looks*.
 
 ## License & copyright
 * GPL-3.0 license
